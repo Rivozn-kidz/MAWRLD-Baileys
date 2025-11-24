@@ -6,22 +6,23 @@
 
 </div>
 # Baileys - Typescript/Javascript WhatsApp Web API
+
 > [!NOTE]
 > Support this project by leaving a ⭐.
 
 > Stay up to date with news and updates:
 
 > [!TIP]
-> **¿Encontraste un error o tienes una idea para mejorar el proyecto?**
-> Reporta un problema o sugiere una mejora en la sección de [Issues](https://github.com/GataNina-Li/Baileys/issues).
-> Envía tus cambios o colaboraciones mediante un [Pull Request](https://github.com/Rivonz/MAWRLD-Baileys/pulls).
+> **Did you find a bug or have an idea to improve the project?**
+
+> Report a problem or suggest an improvement in the [Issues](https://github.com/GataNina-Li/Baileys/issues) section.
+
+> Submit your request 
 
 > [!IMPORTANT]
-> _Este repositorio no es oficial. Corresponde a una adaptación personalizada del proyecto original disponible en [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys). Los cambios, versiones y actualizaciones aquí presentes pueden diferir del repositorio oficial y no necesariamente siguen sus lineamientos o convenciones._
-> 
-> Este proyecto también se nutre gracias a _[this-xyz](https://github.com/this-xyz/baileys)._
+> This repository is unofficial. It is a customized adaptation of the original project available at [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys). Changes, versions
 
-This library was originally a project for **CS-2362 at Ashoka University** and is in no way affiliated with or endorsed by WhatsApp. Use at your own discretion. Do not spam people with this. We discourage any stalkerware, bulk or automated messaging usage. 
+This library was originally a project for **MAWRLD MD** and is in no way affiliated with or endorsed by WhatsApp. Use at your own discretion. Do not spam people with this. We discourage any stalkerware, bulk or automated messaging usage. 
 
 #### Liability and License Notice
 Baileys and its maintainers cannot be held liable for misuse of this application, as stated in the [MIT license](https://github.com/WhiskeySockets/Baileys/blob/master/LICENSE).
