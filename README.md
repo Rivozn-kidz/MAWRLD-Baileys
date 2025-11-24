@@ -5,7 +5,32 @@
 ![WhatsApp API](https://raw.githubusercontent.com/Drayyyxd/image/main/bgdray.jpg)
 
 </div>
+# Baileys - Typescript/Javascript WhatsApp Web API
+> [!NOTE]
+> Support this project by leaving a ⭐.
 
+> Stay up to date with news and updates:
+
+> [!TIP]
+> **¿Encontraste un error o tienes una idea para mejorar el proyecto?**
+> Reporta un problema o sugiere una mejora en la sección de [Issues](https://github.com/GataNina-Li/Baileys/issues).
+> Envía tus cambios o colaboraciones mediante un [Pull Request](https://github.com/Rivonz/MAWRLD-Baileys/pulls).
+
+> [!IMPORTANT]
+> _Este repositorio no es oficial. Corresponde a una adaptación personalizada del proyecto original disponible en [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys). Los cambios, versiones y actualizaciones aquí presentes pueden diferir del repositorio oficial y no necesariamente siguen sus lineamientos o convenciones._
+> 
+> Este proyecto también se nutre gracias a _[this-xyz](https://github.com/this-xyz/baileys)._
+
+This library was originally a project for **CS-2362 at Ashoka University** and is in no way affiliated with or endorsed by WhatsApp. Use at your own discretion. Do not spam people with this. We discourage any stalkerware, bulk or automated messaging usage. 
+
+#### Liability and License Notice
+Baileys and its maintainers cannot be held liable for misuse of this application, as stated in the [MIT license](https://github.com/WhiskeySockets/Baileys/blob/master/LICENSE).
+The maintainers of Baileys do not in any way condone the use of this application in practices that violate the Terms of Service of WhatsApp. The maintainers of this application call upon the personal responsibility of its users to use this application in a fair way, as it is intended to be used.
+##
+
+Baileys does not require Selenium or any other browser to be interface with WhatsApp Web, it does so directly using a **WebSocket**. 
+Not running Selenium or Chromimum saves you like **half a gig** of ram :/ 
+Baileys supports interacting with the multi-device & web versions of WhatsApp.
 **Baileys** is a WebSockets-based TypeScript library for interacting with the WhatsApp Web API.  
 This is **not the official Baileys library**, but a **modified and extended version** developed independently to add functionalities that many developers have requested. These enhancements aim to improve flexibility, offer better developer experience, and provide tools that are missing from the original version.
 
