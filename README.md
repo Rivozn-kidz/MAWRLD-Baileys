@@ -1,11 +1,10 @@
-# <div align='center'>WhatsApp Web API</div>
+# <div align='center'>MAWRLD PULSE - WA API</div>
 
 <div align='center'>
 
 ![WhatsApp API](https://raw.githubusercontent.com/Drayyyxd/image/main/bgdray.jpg)
 
 </div>
-# Baileys - Typescript/Javascript WhatsApp Web API
 
 > [!NOTE]
 > Support this project by leaving a ⭐.
@@ -15,12 +14,12 @@
 > [!TIP]
 > **Did you find a bug or have an idea to improve the project?**
 
-> Report a problem or suggest an improvement in the [Issues](https://github.com/GataNina-Li/Baileys/issues) section.
+> Report a problem or suggest an improvement in the [Issues](https://github.com/Ridz-coder01/Mawrldpulse/issues) section.
 
 > Submit your request 
 
 > [!IMPORTANT]
-> This repository is unofficial. It is a customized adaptation of the original project available at [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys). Changes, versions
+> This repository is unofficial. It is a customized adaptation of the original project available at [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys). with more Changes, versions
 
 This library was originally a project for **MAWRLD MD** and is in no way affiliated with or endorsed by WhatsApp. Use at your own discretion. Do not spam people with this. We discourage any stalkerware, bulk or automated messaging usage. 
 
@@ -72,7 +71,4 @@ const { default: makeWASocket } = require("@drayyy/XD-Baileys")
 
 #### Official
 - [Docs](https://guide.whiskeysockets.io/)
-
-#### Baileys Pro
-- [WhatsApp](https://whatsapp.com/channel/0029Vaj4X9iAInPuhzUk3v1L)
 
