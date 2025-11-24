@@ -55,17 +55,17 @@ Here is an example you can use: [example.ts](Example/example.ts) or here is a tu
 
 Use the stable version:
 ```bash
-npm install @drayyy/XD-Baileys
+npm install  @ridz-coder/mawrldpulse
 ```
 
 Use the edge version (no guarantee of stability, but latest fixes + features)
 ```bash
-yarn add @drayyy/XD-Baileys@latest
+yarn add  @ridz-coder/mawrldpulse@latest
 ```
 
 Then import your code using:
 ```javascript
-const { default: makeWASocket } = require("@drayyy/XD-Baileys")
+const { default: makeWASocket } = require(" @ridz-coder/mawrldpulse")
 ```
 # Links
 
